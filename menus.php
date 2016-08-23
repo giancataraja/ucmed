@@ -5,7 +5,6 @@
 <a href="page.php?page=doctors">OUR DOCTORS</a><br>
 <!-- <a href="#">DEPARTMENTS</a><br> -->
 <a href="page.php?page=appforms">APPLICATION FORMS</a><br>
-<a href="#">CAREER</a><br>
 <a href="#">GALLERY</a><br>
 <a href="page.php?page=promos">EVENTS / PROMO</a><br>
 <a href="#">NEWS & UPDATES</a><br>
